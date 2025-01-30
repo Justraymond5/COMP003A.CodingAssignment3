@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dadd9ce4-ba7e-44f8-ae61-7ce2bc77cbe5" name="Changes" comment="">
+    <list default="true" id="dadd9ce4-ba7e-44f8-ae61-7ce2bc77cbe5" name="Changes" comment="Functional If 1">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.COMP003A.CodingAssignment3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.COMP003A.CodingAssignment3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/COMP003A.CodingAssignment3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/COMP003A.CodingAssignment3/Program.cs" afterDir="false" />
     </list>
@@ -34,7 +34,13 @@
     &quot;accountId&quot;: &quot;9c0d836b-6d9b-410c-ad3f-2002692418d9&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/COMP003A.CodingAssignment3/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -86,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738175626839</updated>
-      <workItem from="1738175630272" duration="6613000" />
+      <workItem from="1738175630272" duration="22607000" />
     </task>
     <task id="LOCAL-00001" summary="First attempt to connect to github">
       <option name="closed" value="true" />
@@ -96,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738175701537</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Functional If 1">
+      <option name="closed" value="true" />
+      <created>1738197629951</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738197629951</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="First attempt to connect to github" />
-    <option name="LAST_COMMIT_MESSAGE" value="First attempt to connect to github" />
+    <MESSAGE value="Functional If 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Functional If 1" />
   </component>
 </project>
